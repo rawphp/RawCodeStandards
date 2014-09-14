@@ -1,0 +1,16 @@
+{
+    "name": "rawphp/raw-code-standards",
+    "type": "package",
+    "description": "RawPHP Code Standards is a package containing various customised sniffs and a ruleset used by RawPHP framework and other applications.",
+    "keywords": [ "code", "standard" ],
+    "homepage": "http://rawphp.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Kaczocha",
+            "email": "tom@rawphp.org"
+        }
+    ],
+    "require": {
+    }
+}
