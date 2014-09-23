@@ -8,7 +8,7 @@
 	<exclude-pattern>*/vendors/*</exclude-pattern>
 	<exclude-pattern>*/views/*</exclude-pattern>
 	
-                <!-- Include Generic sniffs -->
+        <!-- Include Generic sniffs -->
 	<rule ref="Generic.Classes.DuplicateClassName"/>
 	<rule ref="Generic.CodeAnalysis.EmptyStatement"/>
 	<rule ref="Generic.CodeAnalysis.JumbledIncrementer"/>
@@ -65,14 +65,14 @@
 	<rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
 	<rule ref="PEAR.Classes.ClassDeclaration"/>
 	
-                <!-- Include PSR2 sniffs -->
+        <!-- Include PSR2 sniffs -->
 	<rule ref="PSR2.ControlStructures.ElseIfDeclaration"/>
 	
 		<!-- Include Zend sniffs -->
 	<rule ref="Zend.Files.ClosingTag"/>
 	<rule ref="Zend.Debug.CodeAnalyzer"/>
 	
-                <!-- Include Yii sniffs -->
+        <!-- Include Yii sniffs -->
 	<rule ref="RawPHP.Files.Utf8Encoding"/>
 	<rule ref="RawPHP.Objects.ObjectParentheses"/>
 	
